@@ -20,8 +20,10 @@ This example uses SQLite SEE. It does not use SQLCipher.
 
 - Node.js 22 or newer.
 - Android Studio for Android, or Xcode on macOS for iOS.
-- A licensed SEE activation key. To try the sample before purchasing a license,
-  [request an evaluation key](http://sqlite.sourcegear.com/#evaluation).
+- A licensed SEE activation key.
+
+Free fully-featured demo keys are available from
+[sqlite.sourcegear.com](https://sqlite.sourcegear.com/#evaluation).
 
 ## Install
 
