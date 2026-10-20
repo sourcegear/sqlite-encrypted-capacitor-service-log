@@ -1,0 +1,6 @@
+{
+  "appId": "org.sqlite.encrypted.examples.servicelog",
+  "appName": "Encrypted Service Log",
+  "webDir": "dist"
+}
+
